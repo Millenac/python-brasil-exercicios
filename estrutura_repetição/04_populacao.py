@@ -11,4 +11,4 @@ while populacao_a < populacao_b:
     populacao_b += populacao_b * taxa_b
     anos += 1
 
-print(f"Em {anos} a população do país A ultrapará ou igualará a população do país B")
+print(f"Em {anos} anos a população do país A ultrapará ou igualará a população do país B")
